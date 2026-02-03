@@ -9,9 +9,10 @@ body {
         top: 0;
         border: 0;
         padding: 1%;
-        padding-top: 2%;
         outline: 0;
         background-color: rgb(17, 17, 20);
+        margin: 0;
+        margin-top: 1%;
     }
     button {
         color: black;
